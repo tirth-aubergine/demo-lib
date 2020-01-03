@@ -5,4 +5,5 @@ void main() {
 class Product {
   String name;
   int id;
+  double review;
 }
